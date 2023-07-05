@@ -3,15 +3,15 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { LoginComponent } from './login/login.component';
-import { UserListComponent } from './userList/userlist.component';
-import { UserFormComponent } from './userForm/userform.component';
+import { UserlistComponent } from './userlist/userlist.component';
+import { UserformComponent } from './userform/userform.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'registration', component: RegistrationComponent },
   { path: 'login', component: LoginComponent },
-  { path: 'userList', component: UserListComponent },
-  { path: 'userForm', component: UserFormComponent },
+  { path: 'userList', component: UserlistComponent },
+  { path: 'userForm', component: UserformComponent },
 ];
 
 @NgModule({
