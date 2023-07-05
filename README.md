@@ -1,5 +1,6 @@
 # Web Server (Angular+Django+Postgresql)
-
+<img src="https://bezkoder.com/wp-content/uploads/2020/12/django-angular-postgresql-example-crud-architecture.png" alt="Postgresql" width="400"/>
+<img src="https://pretius.com/wp-content/uploads/2023/02/Keycloak.png" alt="Postgresql" width="250"/>
 Environment:
 1. Ubuntu 20.04 or 22.04
 	If you have different OS, please download VirtualBox or other Virtual machines to mount a VM instance of Ubunut 20.04 or 22.04.
